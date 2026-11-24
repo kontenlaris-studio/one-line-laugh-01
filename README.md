@@ -1,3 +1,13 @@
+<div align="center">
+
+<img src="assets/logo.png?v=1" width="280" alt="one-line-laugh-01 logo">
+
+**The one-line laugh.**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&labelColor=FF7A00&color=0A1931) ![License: MIT](https://img.shields.io/badge/License-MIT-green?style=for-the-badge&labelColor=FF7A00&color=0A1931) ![By Kontenlaris Studio](https://img.shields.io/badge/By-Kontenlaris%20Studio-orange?style=for-the-badge&labelColor=FF7A00&color=0A1931)
+
+</div>
+
 # one-line-laugh-01
 
 [![make.fun · u-ronigrv-the-one-line-laugh-7ccca46f](https://make.fun/badge/u-ronigrv-the-one-line-laugh-7ccca46f.svg)](https://make.fun/bounty/u-ronigrv-the-one-line-laugh-7ccca46f?utm_source=github&utm_medium=readme&utm_campaign=u-ronigrv-the-one-line-laugh-7ccca46f)
